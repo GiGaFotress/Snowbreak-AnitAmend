@@ -1,0 +1,53 @@
+{
+  "version": "3.6.0",
+  "assets": [
+    {
+      "name": "Patch_Xpand_AntiAmend_2D-IOS_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_2D-IOS_100_P.pak",
+      "sha256": "484723059edda0f2f2f8960d2e2bf491e5d67a019d2222499bcd9640b7e63991",
+      "size": 70149734
+    },
+    {
+      "name": "Patch_Xpand_AntiAmend_Basic-Universal_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_Basic-Universal_100_P.pak",
+      "sha256": "34a6462bceb7c2df34e19c68c671b4677d06f823a2dc3e4a8856570b721fe5cf",
+      "size": 14336
+    },
+    {
+      "name": "Patch_Xpand_AntiAmend_House-Universal_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_House-Universal_100_P.pak",
+      "sha256": "96377fb92fb7ae88e06c1bdd52d13c85db9c7f75ba6033bb5c759f5419efde5d",
+      "size": 184320
+    },
+    {
+      "name": "Patch_Xpand_AntiAmend_Login-Universal_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_Login-Universal_100_P.pak",
+      "sha256": "7f5c04f2ea7907e535d3241c3f576d86712cbc07578d8317bf78ead84e70e493",
+      "size": 2171
+    },
+    {
+      "name": "Patch_Xpand_AntiAmend_Model-IOS_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_Model-IOS_100_P.pak",
+      "sha256": "1ef78d0a28ae33c4bf0311cedfc3adbb16a85ea5a4714986779deb17a1af59d1",
+      "size": 209715200
+    },
+    {
+      "name": "Patch_Xpand_AntiAmend_Plot-Universal_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_Plot-Universal_100_P.pak",
+      "sha256": "fdda056b95e86ffb8455e9d5df35e9561c2c14860d3fc8129c83aee6ccc672d8",
+      "size": 2569011
+    },
+    {
+      "name": "Patch_Xpand_AntiAmend_Riki-Universal_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_Riki-Universal_100_P.pak",
+      "sha256": "f3d48971e9f69b229693cb142c8e2df66a83097ee1fed650cf8d01a5c8f3a361",
+      "size": 139264
+    },
+    {
+      "name": "Patch_Xpand_AntiAmend_Scene-Universal_100_P.pak",
+      "url": "https://github.com/auiphc/Snowbreak-AnitAmend/releases/download/AntiAmendIOS-2026-05-20-19-57-02/Patch_Xpand_AntiAmend_Scene-Universal_100_P.pak",
+      "sha256": "3f505b333dde0e715f6427ec8b161687884798981ffa8b8d723bf95e37a028c7",
+      "size": 136192
+    }
+  ]
+}
